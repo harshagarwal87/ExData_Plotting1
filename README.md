@@ -115,5 +115,5 @@ The four plots that you will need to construct are shown below.
 
 ## Note
 
-Ensure Data set is saved in working directory before running the code.
+Ensure data set is saved in working directory before running the code.
 
